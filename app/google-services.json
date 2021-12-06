@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88501631001",
+    "project_id": "nycschools-7d83b",
+    "storage_bucket": "nycschools-7d83b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88501631001:android:9770dfe6a387230ca41288",
+        "android_client_info": {
+          "package_name": "com.school.management.system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88501631001-hvmhe39vbpl24rj17i2r6mcn7u45om67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqBkbEQ_kZ6Kzy2y_5Ifq-3mdgplMKWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88501631001-hvmhe39vbpl24rj17i2r6mcn7u45om67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
